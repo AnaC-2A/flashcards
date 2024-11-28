@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como dizer que voçê ama as aulas de tecnologia do Lourival?',
+    'I love LOurival`s technolgy class! ( AI LOVE, TEQUENOLOGI CLAS)'
 )
